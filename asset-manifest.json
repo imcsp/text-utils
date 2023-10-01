@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/textUtils/static/css/main.073c9b0a.css",
-    "main.js": "/textUtils/static/js/main.e1549e09.js",
-    "static/js/787.0cbdef75.chunk.js": "/textUtils/static/js/787.0cbdef75.chunk.js",
-    "index.html": "/textUtils/index.html",
-    "main.073c9b0a.css.map": "/textUtils/static/css/main.073c9b0a.css.map",
-    "main.e1549e09.js.map": "/textUtils/static/js/main.e1549e09.js.map",
-    "787.0cbdef75.chunk.js.map": "/textUtils/static/js/787.0cbdef75.chunk.js.map"
+    "main.css": "/imcsp/text-utils.git/static/css/main.073c9b0a.css",
+    "main.js": "/imcsp/text-utils.git/static/js/main.d72b3f6e.js",
+    "static/js/787.0cbdef75.chunk.js": "/imcsp/text-utils.git/static/js/787.0cbdef75.chunk.js",
+    "index.html": "/imcsp/text-utils.git/index.html",
+    "main.073c9b0a.css.map": "/imcsp/text-utils.git/static/css/main.073c9b0a.css.map",
+    "main.d72b3f6e.js.map": "/imcsp/text-utils.git/static/js/main.d72b3f6e.js.map",
+    "787.0cbdef75.chunk.js.map": "/imcsp/text-utils.git/static/js/787.0cbdef75.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.e1549e09.js"
+    "static/js/main.d72b3f6e.js"
   ]
 }
